@@ -5,10 +5,18 @@
 ##### Header five
 ###### Header six lightest font size
 
-![Uma imagem aletória do Git](https://octodex.github.com/images/yaktocat.png)
-<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
 $ git init
 Initialized empty Git repository inside current folder
 ```
+```c#
+Console.WriteLine("Hello World")
+```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Start collaborating to others
+- [ ] ~~added by mistake~~
