@@ -5,7 +5,7 @@
 ##### Header five
 ###### Header six lightest font size
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/scubatocat.png)
 
 ```
 $ git init
