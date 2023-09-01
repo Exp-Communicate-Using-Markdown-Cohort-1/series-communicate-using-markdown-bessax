@@ -1,15 +1,23 @@
-# Header one  largest font size
-## Header two second largest font size
-### Header three  third largest font size
-#### Header four
-##### Header five
-###### Header six lightest font size
+# Boas vindas a atividade "Communication using Markdown"! 👋
+### Sou o @bessax
+#### Abaixo a adição de uma imagem no Markdown📂.....
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/scubatocat.png)
 
+
+#### Exemplos de códigos.....
 ```
-Console.WriteLine("Hello World!")
+$ git init
+Initialized empty Git repository inside current folder
 ```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+
+
+```c#
+Console.WriteLine("Hello World")
+```
+
+
+#### Exemplos de checkbox.....
+- [ ] Listar Sintaxe requerida.
+- [ ] Criação de nova `task`
+- [ ] Realizar `Testes de unidade`
