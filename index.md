@@ -14,6 +14,8 @@ Initialized empty Git repository inside current folder
 
 ```c#
 Console.WriteLine("Hello World")
+
+Console.WriteLine("Isso é apenas um teste!")
 ```
 
 
