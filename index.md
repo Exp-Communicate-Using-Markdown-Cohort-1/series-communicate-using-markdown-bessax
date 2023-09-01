@@ -5,11 +5,4 @@
 ##### Header five
 ###### Header six lightest font size
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-```
-Console.WriteLine("Hello World!")
-```
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+![Uma imagem aletória do Git](https://octodex.github.com/images/yaktocat.png)
